@@ -47,13 +47,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=shubhammahajan2012&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## ✨ Contributions:
-
-###
-
-<br clear="both">
 ![Snake animation](https://github.com/shubhammahajan2012/shubhammahajan2012/blob/output/github-contribution-grid-snake.svg)
-
-###
 
 ## 🌐 Socials:
 
